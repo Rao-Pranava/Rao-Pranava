@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rao-Pranava
+- 👋 Hi, I’m Pranava Rao
 - 👀 I’m interested in Cyber Security
 - 👉 Instagram: [@pranava__rao](https://www.instagram.com/pranava__rao/)
 - 👉 StackOverflow: [pranava-rao](https://stackoverflow.com/users/17930815/pranava-rao)
