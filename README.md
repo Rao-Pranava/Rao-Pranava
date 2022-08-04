@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Pranava Rao
 - 👀 I’m Working in Cyber Security Space
 - Find me Here 👇
+<br> 👉 LinkedIn: [pranava-rao](https://www.linkedin.com/in/pranava-rao/)
 <br> 👉 Instagram: [@pranava__rao](https://www.instagram.com/pranava__rao/)
 <br> 👉 StackOverflow: [pranava-rao](https://stackoverflow.com/users/17930815/pranava-rao)
 <br> 👉 YouTube: [Pranava Rao](https://www.youtube.com/channel/UCYelHzBJZ7LyUhObUojsKlA)
