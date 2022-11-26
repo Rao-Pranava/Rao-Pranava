@@ -4,7 +4,7 @@
 <br> 👉 LinkedIn: [pranava-rao](https://www.linkedin.com/in/pranava-rao/)
 <br> 👉 Instagram: [@pranava__rao](https://www.instagram.com/pranava__rao/)
 <br> 👉 StackOverflow: [pranava-rao](https://stackoverflow.com/users/17930815/pranava-rao)
-<br> 👉 YouTube: [Pranava Rao](https://www.youtube.com/channel/UCYelHzBJZ7LyUhObUojsKlA)
+<br> 👉 YouTube: [Pranava Rao](https://www.youtube.com/@Pranava__Rao)
 <br> 👉 Twitch: [Pranava__Rao](https://www.twitch.tv/pranava__rao)
 
 ![My GitHub Status](https://github-readme-stats.vercel.app/api?username=Rao-Pranava&show_icons=true)
