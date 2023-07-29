@@ -1,11 +1,13 @@
 - 👋 Hi, I’m Pranava Rao
-- 👀 I’m Working in Cyber Security Space
+- 👀 I’m a Cyber Security Professional
+- 
 - Find me Here 👇
 <br> 👉 LinkedIn: [pranava-rao](https://www.linkedin.com/in/pranava-rao/)
 <br> 👉 Instagram: [@pranava__rao](https://www.instagram.com/pranava__rao/)
 <br> 👉 StackOverflow: [pranava-rao](https://stackoverflow.com/users/17930815/pranava-rao)
 <br> 👉 YouTube: [@Pranava__Rao](https://www.youtube.com/@Pranava__Rao)
 <br> 👉 Twitch: [Pranava__Rao](https://www.twitch.tv/pranava__rao)
+<br> 👉 Reddit: [Pranava__Rao](https://www.reddit.com/user/Pranava__Rao)
 
 <!---
 Rao-Pranava/Rao-Pranava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
