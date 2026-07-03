@@ -2,7 +2,7 @@
 👀 I do hacking stuff, hence called a Hacker, .... but legally...... lol. I am Cyber Security Professional and this GitHub stores all my silly codes that I like to use often. <br><br>
 
 ### The SNAKE ATE MY CONTRIBUTIONS!!!! 🤯🤯🤯
-![snake gif](https://github.com/Rao-Pranava/Rao-Pranava/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Rao-Pranava/Rao-Pranava/blob/output/github-contribution-grid-snake-dark.svg)
 
  
 I can also be found on all these places 👇🏼
