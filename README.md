@@ -1,6 +1,9 @@
 👋🏼 Hey! This is Pranava Rao profile here 👋🏼<br><br>
 👀 I do hacking stuff, hence called a Hacker, .... but legally...... lol. I am Cyber Security Professional and this GitHub stores all my silly codes that I like to use often. <br><br>
 
+### The SNAKE ATE MY CONTRIBUTIONS!!!! 🤯🤯🤯
+![snake gif](https://github.com/Rao-Pranava/Rao-Pranava/blob/output/github-contribution-grid-snake.svg)
+
  
 I can also be found on all these places 👇🏼
 - 👉🏼 LinkedIn: [pranava-rao](https://www.linkedin.com/in/pranava-rao/)
